@@ -1,0 +1,1 @@
+A dumb discord bot for someone doesn't do much of anything except rename channels with an inputted list of channels.
